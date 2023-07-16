@@ -1,0 +1,11 @@
+{
+  "name": "testeapi-totvs",
+  "version": "1.0.0",
+  "description": "Teste de API TOTVS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "GabrielMEsquita",
+  "license": "ISC"
+}
